@@ -1,4 +1,4 @@
-# Hi there! I'm Jesus Alberto De Los Santos Hernández 👋
+# Hi there! I'm Jesus De Los Santos 👋
 
 ### 🚀 Software Development and Management Engineering Student
 I am a highly adaptable professional with strong technical and organizational skills. Currently, I am pursuing my Bachelor's degree at the **Universidad Tecnológica de Chihuahua** (BIS Campus), focused on creating innovative digital tools and contributing to high-performance development teams.
@@ -28,7 +28,8 @@ I am a highly adaptable professional with strong technical and organizational sk
 ---
 
 ### 📜 Certifications & Education
-- 🎓 **Bachelor's in Software Development & Management Engineering** - UTCH (In Progress)
+- 🎓 **Bachelor's in Software Development & Management Engineering** - *Universidad Tecnológica de Chihuahua (BIS)* (In Progress)
+- 🎓 **Associate Degree (TSU) in Information Technology** (Multiplatform Software Development Area) *Universidad Tecnológica de Chihuahua (BIS)*
 - 🛡️ **Introduction to Cybersecurity** - Cisco Network Academy
 - 🌐 **JavaScript Essentials 1** - Cisco Network Academy
 - 🤖 **ChatGPT Fundaments** - Santander Open Academy
